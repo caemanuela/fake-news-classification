@@ -23,11 +23,12 @@ To answer this, the project compares:
 
 ```text
 .
-├── 01_eda_ml_models_comparison_portfolio.ipynb
-├── 02_distilbert_generalization_portfolio_final.ipynb
-├── requirements.txt
 ├── .gitignore
-└── README.md
+├── 01_eda_ml_models_comparison.ipynb
+├── 02_distilbert_generalization.ipynb
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 The original Kaggle CSV files are not included in the repository. To reproduce the notebooks, place them locally as:
