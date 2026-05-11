@@ -1,6 +1,6 @@
 # Fake News Classification: Shortcut Learning and Out-of-Distribution Generalization
 
-This project is a two-notebook NLP analysis on the Kaggle [Fake and Real News dataset][https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset].  
+This project is a two-notebook NLP analysis on the Kaggle [Fake and Real News dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).  
 The goal is not only to classify fake news, but to investigate whether high benchmark performance reflects real generalization or shortcut learning.
 
 The project was developed as an individual machine learning/NLP portfolio project, with a focus on dataset bias, classical ML baselines, transformer fine-tuning, and robustness evaluation.
